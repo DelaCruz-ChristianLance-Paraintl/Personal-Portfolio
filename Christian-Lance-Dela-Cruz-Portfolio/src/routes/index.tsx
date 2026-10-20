@@ -28,8 +28,8 @@ function Index() {
     <div className="min-h-screen overflow-x-hidden bg-background text-foreground">
       <header className="page-wrap flex h-20 items-center justify-between border-b border-border">
         <a href="#home" aria-label="Rence Sophia De Leon Atenciana, home" className="group leading-tight">
-          <span className="font-display block text-xl">Christian Lance</span>
-          <span className="text-xs tracking-[0.08em] text-muted-foreground">DELA CRUZ</span>
+          <span className="font-display block text-xl">ATENCIANA</span>
+          <span className="text-xs tracking-[0.08em] text-muted-foreground">RENCE SOPHIA DE LEON</span>
         </a>
         <nav aria-label="Main navigation" className="flex items-center gap-6 sm:gap-9">
           <a className="text-sm font-semibold transition-colors hover:text-ember" href="#focus">Focus</a>
